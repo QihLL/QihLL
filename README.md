@@ -1,5 +1,5 @@
 
-<p>我是Qih凌乱，这是我的个人网站。 </p>
+<p>I’m Qihl_ingluan and this is my first website. </p>
 <p>很高兴你来到这里, 目前我的网站还不是很完善，但之后会变的</p>
 <ul>
 
